@@ -106,12 +106,6 @@ Click the 🐞 bug icon in the app bar to **print all car entries** stored in Hi
 
 ---
 
-## 👨‍💻 Author
-
-**Mohamed Isaam**  
-📧 isaam.mj@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/isaammj/)
-
 ---
 
 > Built with ❤️ in Flutter, powered by Hive & GetX
